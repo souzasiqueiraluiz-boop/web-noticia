@@ -91,3 +91,16 @@ footer{
     color:white;
     padding:20px;
 }
+
+/* IMAGENS */
+
+.foto{
+    width:100%;
+    max-width:100%;
+    height:auto;
+    display:block;
+    margin:25px auto;
+    border-radius:10px;
+    filter:grayscale(100%);
+    object-fit:cover;
+}
